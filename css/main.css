@@ -187,6 +187,10 @@ p {
 	.skills {
 		flex-direction: column;
 		width: 100%;
+		align-items: center;
+		margin: 0;
+		margin-top: 50px;
+		margin-bottom: 50px;
 	}
 }
 
