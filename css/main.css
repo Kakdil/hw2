@@ -164,6 +164,9 @@ p {
 	.container {
 		width: 960px;
 	}
+	.cases {
+		width: 50%;
+	}
 }
 
 @media screen and (max-width: 992px) {
